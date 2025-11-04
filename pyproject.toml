@@ -1,0 +1,20 @@
+[project]
+name = "llm-zoomcamp-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "elasticsearch>=9.2.0",
+    "minsearch>=0.0.7",
+    "notebook>=7.4.7",
+    "openai>=2.6.1",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
