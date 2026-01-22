@@ -1,0 +1,47 @@
+,answer,doc_id,question,relevance,explanation
+0,Start in a high plank position with your hands under your shoulders.,0,What is the correct starting position for a push-up?,RELEVANT,"The generated answer directly and accurately describes the correct starting position for a push-up, specifying the high plank position and proper hand placement under the shoulders, which completely addresses the question."
+1,"For a standard push-up, lower your body until your chest nearly touches the floor, then push back up to the starting position. 
+
+Note: Incline push-ups involve lowering toward an elevated surface, and decline push-ups involve lowering toward the floor with your feet elevated.",0,How low should I go during a push-up?,RELEVANT,"The generated answer directly addresses the question by providing specific instructions on how low to go during a push-up. It clearly states that for a standard push-up, one should lower their body until their chest nearly touches the floor. Additionally, it provides helpful context about variations of push-ups (incline and decline), which enhances the completeness of the answer. The information is directly relevant to the question asked."
+2,"Pectorals (chest), Triceps, and Deltoids (shoulders).",0,Which muscle groups are primarily targeted by push-ups?,RELEVANT,"The generated answer directly and accurately lists the primary muscle groups targeted by push-ups: pectorals (chest), triceps, and deltoids (shoulders). This information is precise, concise, and completely addresses the question without including any irrelevant details."
+3,"Yes. From the context, you can modify push-ups for beginners by:
+
+- Incline Push-Ups: Place your hands on an elevated surface (like a bench), lower your chest toward the surface, then push back up.
+- TRX Push-Ups: Perform push-ups with your hands in the TRX handles, keeping your body straight (using the TRX to adjust load).",0,Can push-ups be modified for beginners?,RELEVANT,The generated answer directly addresses the question by confirming that push-ups can be modified for beginners and providing two specific modification techniques (Incline Push-Ups and TRX Push-Ups) with clear instructions. The information is directly relevant to the question and provides practical solutions for beginners.
+4,"Here are the form cues from the push-up variations in your context:
+
+- Standard Push-Ups (bodyweight)
+  - Start in a high plank position with your hands under your shoulders.
+  - Lower your body until your chest nearly touches the floor.
+  - Push back up to the starting position.
+
+- TRX Push-Ups
+  - Perform push-ups with your hands in the TRX handles.
+  - Keep your body straight throughout the movement.
+
+- Decline Push-Ups
+  - Place your feet on an elevated surface and your hands on the floor.
+  - Lower your chest toward the floor, then push back up.
+
+- Incline Push-Ups
+  - Place your hands on an elevated surface (like a bench).
+  - Lower your chest toward the surface, then push back up.
+
+- Spider Push-Ups
+  - Start in a high plank position.
+  - As you lower, bring one knee toward your elbow, then push back up and switch sides.
+
+Using these cues for each variation will help you maintain proper form.",0,How can I ensure proper form while performing push-ups?,RELEVANT,"The generated answer directly addresses the question by providing detailed form cues for various push-up variations. It offers specific instructions on proper positioning, movement patterns, and key form considerations for each type of push-up, which directly answers how to ensure proper form while performing push-ups."
+5,"Stand with your feet shoulder-width apart. Keep your chest up as you lower your body as if sitting back into a chair, then return to standing.",1,What is the proper stance for performing squats?,PARTLY_RELEVANT,"The answer includes relevant information about the stance for squats (feet shoulder-width apart and chest up position), which directly addresses the question. However, it also includes additional details about the movement execution (lowering and rising), which goes beyond what was specifically asked about the stance."
+6,"Use the depth and alignment cues given for each exercise in your routine:
+
+- Squats: Lower your body as if sitting back into a chair, and keep your chest up.
+- Reverse Lunges: Step backward into a lunge and lower your hips until both knees are at a 90-degree angle.
+- Push-Ups: Start with hands under your shoulders and lower until your chest nearly touches the floor.
+- Tricep Dips: Lower your body by bending your elbows.
+- Step-Ups: Step onto a bench with one foot, then push through that foot to lift your body up, lowering back down with control and repeating on the other side.
+
+These cues help ensure proper form during the lowering phase of each movement.",1,How do I ensure my form is correct while lowering my body?,RELEVANT,"The answer directly addresses the question by providing specific form cues for the lowering phase of multiple exercises. Each instruction focuses on maintaining proper alignment and technique during the downward movement, which is exactly what the question asks about. The answer is comprehensive, actionable, and specifically mentions that these cues help ensure proper form during the lowering phase."
+7,"Quadriceps, glutes, and hamstrings.",1,Which muscle groups are primarily targeted during squats?,RELEVANT,"The generated answer directly and accurately identifies the primary muscle groups (quadriceps, glutes, and hamstrings) targeted during squats, which perfectly matches the question's focus. No irrelevant information is included, and the answer is concise yet complete for the query."
+8,"Yes. In this dataset, the basic Squats are a bodyweight exercise, meaning no equipment is required. How: stand with feet shoulder-width apart, lower your body as if sitting back into a chair while keeping your chest up, then return to standing. Primary muscles worked: quadriceps, glutes, hamstrings.",1,Can squats be performed without any equipment?,RELEVANT,"The generated answer directly addresses the question by confirming that squats can be performed without equipment, explaining that they are a bodyweight exercise, providing instructions on how to perform them, and including additional relevant information about the muscles worked."
+9,"The provided CONTEXT does not specify what to do if you feel discomfort during squats. It only describes how to perform squats: stand with feet shoulder-width apart, lower your body as if sitting back into a chair while keeping your chest up, then return to standing.",1,What should I do if I feel discomfort while doing squats?,NON_RELEVANT,"The generated answer explicitly states that the context does not provide guidance on handling discomfort during squats. Instead, it only describes proper squat form, which doesn't address the specific question about what to do when experiencing discomfort. The answer fails to provide any actionable advice for the situation described in the question."
