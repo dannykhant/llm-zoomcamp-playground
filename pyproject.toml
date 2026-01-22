@@ -5,13 +5,23 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "arize-phoenix>=12.30.0",
+    "arize-phoenix-client>=1.27.2",
+    "arize-phoenix-evals>=2.8.0",
+    "arize-phoenix-otel>=0.14.0",
     "elasticsearch>=9.2.0",
+    "hyperopt>=0.2.7",
+    "langchain-community>=0.4.1",
+    "langchain-qdrant>=1.1.0",
     "minsearch>=0.0.7",
     "notebook>=7.4.7",
     "openai>=2.6.1",
+    "openinference-instrumentation-openai>=0.1.41",
     "pandas>=2.3.3",
     "qdrant-client[fastembed]>=1.16.2",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=5.2.0",
     "tqdm>=4.67.1",
 ]
 
