@@ -10,6 +10,7 @@ dependencies = [
     "arize-phoenix-evals>=2.8.0",
     "arize-phoenix-otel>=0.14.0",
     "elasticsearch>=9.2.0",
+    "fastapi[standard]>=0.128.0",
     "hyperopt>=0.2.7",
     "langchain-community>=0.4.1",
     "langchain-qdrant>=1.1.0",
