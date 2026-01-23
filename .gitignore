@@ -12,3 +12,4 @@ wheels/
 
 # Project-specific ignores
 qdrant_storage/
+.env
